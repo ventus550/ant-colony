@@ -12,7 +12,7 @@ docs:
 scenarios:
 	python3 -uB ./tests/test_scenarios.py
 
-test-logic:
+test:
 	python3 -uB ./tests/test_ants.py
 
 pep8:
