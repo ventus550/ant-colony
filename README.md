@@ -23,7 +23,7 @@ Randomly traveling ants emerge from the colonies. Ants that successfully reach t
 ### How to run
 The simulation can be started by typing `make` in the root directory.
 To run a fresh simulation type `make new` or press delete to reset the current simulation.
-One may also run some tests and testing scenarios via `make tests` and `make scenarios`.
+One may also run some tests and testing scenarios via `make test` and `make scenarios`.
 
 <div style="height:300px">
 <a href="url">
